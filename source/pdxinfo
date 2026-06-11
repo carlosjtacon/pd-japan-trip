@@ -1,6 +1,6 @@
-name=Template
-author=You, Inc.
-description=A basic game template.
-bundleID=com.yourcompany.TemplateGame
+name=Japan Trip
+author=Carlos, Inc.
+description=A game from when I was travelling Japan.
+bundleID=com.carlosjtacon.japan-trip
 version=1.0
 buildNumber=1
